@@ -10,7 +10,7 @@ import com.acemurder.game.Manager;
 import com.acemurder.game.Player;
 import com.acemurder.game.Poker;
 
-public class 做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做做 implements Player,Runnable{
+public class Te implements Player,Runnable{
 
 	private Manager m;//被收买的性感荷官
 	private int totalPlayer;
